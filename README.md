@@ -33,4 +33,3 @@ Different technologies below may be needed for different components, depending o
 5. **Azure Synapse** - for specific solutions with large data volumes
 6. **Power BI** - DataFlows and/or Power Query, Power BI Desktop
 7. **Power BI Premium** - only required for some of the DataFlows
-
