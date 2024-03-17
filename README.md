@@ -11,7 +11,8 @@ Power Pop Health is a collection of content intended to simplify the process of 
 
 ## What Data is Currently Accessible using Power Pop Health? ##
 
-![Available Data](https://github.com/gregbeaumont/PowerPopHealth/blob/main/Images/Data_In_PPop.png?raw=true)
+![image](https://github.com/Ansh0047/Power-Pop-Health-by-Team-XO/assets/131567808/7adb8210-7ea6-45e7-ad71-004ee706233a)
+
 
 ## Roadmap for New Content in Power Pop Health ##
 
